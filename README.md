@@ -1,5 +1,5 @@
 
-## Hey!! I'm Lívia, but you can call me Vi if you want to! 😊
+## Hey!! I'm Lívia.
 
 **About me:** 
 - 🎓 Self-taught developer and currently graduating in Systems Analysis and Development at Senai SP.
