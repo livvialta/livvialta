@@ -3,8 +3,8 @@
 
 **About me:** 
 - 🎓 Self-taught developer and currently graduating in Systems Analysis and Development at Senai SP.
-- 💻 Estudando: Python and Database mostly.
-- 📫 Contact me: vii.bazilio@gmail.com
+- 💻 Studying: Python and Database mostly.
+- 📫 How to reach me: vii.bazilio@gmail.com
 
   <div align="center">
     <a href="https://github.com/livvialta">
@@ -17,6 +17,7 @@
   <img align="center" alt="Liv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Liv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Liv-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
+  <img align="center" alt="Liv-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)">
 </div>
 
 ##
