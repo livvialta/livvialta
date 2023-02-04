@@ -1,9 +1,9 @@
 
-## Olá!! Eu sou a Lívia, mas pode me chamar de vi! 😊
+## Hey!! I'm Lívia, but you can call me Vi if you want to! 😊
 
-**Sobre mim:**
-- 🎓 DEV autodidata em formação
-- 💻 Estudando: HTML, CSS, Javascript e...
+**About me:** 
+- 🎓 Self-taught developer and currently graduating in Systems Analysis and Development at Senai SP.
+- 💻 Estudando: Python and Database mostly.
 - 📫 Contate-me : vii.bazilio@gmail.com
 
   <div align="center">
