@@ -1,5 +1,5 @@
 
-## Hey!! I'm Lívia. <img src="https://i.pinimg.com/originals/2e/25/75/2e2575671b6525b02b1c5985f5de56fa.gif" width="60" align="center"></h2>
+## Hey!! I'm Lívia. <img src="https://i.pinimg.com/originals/2e/25/75/2e2575671b6525b02b1c5985f5de56fa.gif" width="50" align="center"></h2>
 
 **About me:** 
 - 🎓 Self-taught developer and currently graduating in Systems Analysis and Development at Senai SP.
