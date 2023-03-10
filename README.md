@@ -20,10 +20,6 @@
   <img align="center" alt="Liv-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=livvialta&label=Profile%20Views&color=10&icon=0&pretty=true" />
-</a>
-
 
 
 <div> 
@@ -35,7 +31,7 @@
   
 </div>
 
- 
+ <hr />
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=livvialta&label=Profile%20Views&color=10&icon=0&pretty=true" />
 </a>
