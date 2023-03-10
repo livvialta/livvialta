@@ -8,7 +8,7 @@
 
   <div align="center">
     <a href="https://github.com/livvialta">
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=livvialta&theme=dark&hide_border=false)
+      <img height="180em" src="[[https://github-readme-stats.vercel.app/api/top-langs/?username=livvialta&layout=compact&langs_count=16&theme=midnight-purple/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livvialta&layout=compact&langs_count=16&theme=midnight-purple"/>
    </div>
   
