@@ -19,10 +19,13 @@
   <img align="center" alt="Liv-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
   <img align="center" alt="Liv-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
----
-[![](https://visitcount.itsvg.in/api?id=gabidsbarbosa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-##
+ <div>
+  <img align="center" alt="visitas no perfil" height="30" width="40" src="https://visitcount.itsvg.in/api?id=livvialta&icon=0&color=0)](https://visitcount.itsvg.in">
+</div>
+
+
+
 
 <div> 
   <a target="_blank" href="https://www.instagram.com/livia_vialta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
