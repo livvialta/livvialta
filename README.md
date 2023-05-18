@@ -4,7 +4,7 @@
 **About me:** 
 - 🎓 Self-taught developer and currently graduating in Systems Analysis and Development at Senai SP.
 - 💻 Studying: Python and Database mostly.
-- 📫 How to reach me: vii.bazilio@gmail.com
+- 📫 How to reach me: liviavialtadev@gmail.com
 
   <div align="center">
     <a href="https://github.com/livvialta">
