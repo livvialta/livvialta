@@ -34,3 +34,28 @@
   <img src="https://visitcount.itsvg.in/api?id=livvialta&label=Profile%20Views&color=10&icon=0&pretty=true" />
 </a>
 
+  ## 👨‍💻 Vacuum 
+
+[Vacuum](https://discord.gg/vacuum) is a programming and technology community
+where the goal is to provide networking with a community of developers
+from several areas and at different career levels, so they can exchange
+experiences and knowledge. In addition, Vacuum also intends to
+provide a learning environment where members can learn and teach
+each other through interaction, events, workshops and courses.
+
+Currently I work as Deputy Staff Lead at Vacuum, 
+where I am responsible for the management of the teams,
+as well as responsible for been mediator of conflicts and dealing with bureaucratic and risk issues.
+
+Feel free to contact me if you have any questions about
+Vacuum or would like to join the community.
+
+<div align='center'>
+
+ [![Twitter](https://custom-icon-badges.demolab.com/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VacuumORG)
+ [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/vacuumm/mycompany/)
+ [![Github](https://custom-icon-badges.demolab.com/badge/-Github-181717?style=for-the-badge&logo=github)](https://github.com/VacuumORG)
+
+ [![Discord Invite](https://invidget.switchblade.xyz/vacuum)](http://discord.gg/vacuum)
+
+---
