@@ -2,7 +2,7 @@
 ## Hey!! I'm Lívia. <img src="https://i.pinimg.com/originals/2e/25/75/2e2575671b6525b02b1c5985f5de56fa.gif" width="50" align="center"></h2>
 
 **About me:** 
-- 🎓 Data Analytics Intern and currently graduating in Analysis and Systems Development at Senai SP.
+- 🎓 Data Intern and currently graduating in Analysis and Systems Development at Senai SP.
 - 💻 Studying: Python, MYSQL, Cloud services.
 - 📫 How to reach me: liviavialtadev@gmail.com
 
